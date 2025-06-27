@@ -1,27 +1,29 @@
-# Repositorio de prácticas JavaScript – Zero to Mastery (ZTM)
+# JavaScript Practice Repository – Zero to Mastery (ZTM)
 
-Este repositorio contiene ejercicios y proyectos realizados durante mi formación en JavaScript a través de la plataforma **Zero to Mastery (ZTM)**. El objetivo principal es desarrollar una base sólida en programación con JavaScript moderna (ES6+) aplicada al desarrollo web.
+This repository contains JavaScript exercises and projects developed while studying through the **Zero to Mastery (ZTM)** platform. It covers foundational topics in modern JavaScript (ES6+) and is focused on hands-on learning through practical examples and mini-projects.
 
-## Estructura del repositorio
+## Repository Structure
 
-- `Basics`: Sintaxis fundamental, variables, condicionales, bucles y funciones.
-- `DOM`: Manipulación del Document Object Model para interactuar con HTML y CSS.
-- `Eventos`: Uso de eventos para crear páginas dinámicas.
-- `Proyectos`: Aplicaciones prácticas como juegos, formularios interactivos, herramientas de frontend, etc.
+- `Basics`: Core JavaScript syntax, variables, conditionals, loops, and functions.
+- `DOM`: Manipulation of the Document Object Model to dynamically interact with HTML and CSS.
+- `Eventos`: Handling user-triggered events to make web pages interactive.
+- `Proyectos`: Practical mini-projects such as games, forms, and interactive components.
 
-## Tecnologías y herramientas
+## Technologies and Tools
 
-- Lenguaje: JavaScript (ES6+)
-- Entorno: Navegadores modernos
-- Editor de código: Visual Studio Code
+- **Language:** JavaScript (ES6+)  
+- **Environment:** Modern web browsers  
+- **Code Editor:** Visual Studio Code
 
-## Objetivos de aprendizaje
+## Learning Objectives
 
-- Dominar los fundamentos del lenguaje JavaScript.
-- Manipular el DOM de forma dinámica y eficaz.
-- Implementar lógica interactiva mediante eventos.
-- Crear proyectos completos como base para el desarrollo frontend profesional.
+- Build a strong foundation in modern JavaScript syntax and logic.
+- Dynamically modify HTML and CSS using DOM manipulation.
+- Handle user events to create interactive and responsive UI components.
+- Complete small real-world projects to reinforce concepts and prepare for frontend development.
 
-## Estado del repositorio
+## Repository Status
 
-Este repositorio está en desarrollo y se irá actualizando conforme avance en los cursos de ZTM y en nuevos proyectos personales.
+This repository is actively growing as I continue to complete more lessons and projects from the ZTM JavaScript curriculum.
+
+---
